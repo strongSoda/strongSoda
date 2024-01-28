@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/ehthing" target="blank"><img src="https://img.shields.io/twitter/follow/ehthing?logo=twitter&style=for-the-badge" alt="ehthing" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://imran.wiki/](https://imran.wiki/)
+- 👨‍💻 All of my projects are available at [portfolio](https://imran.wiki/portfolio)
 
-- 📝 I regularly write articles on [https://imran.wiki/](https://imran.wiki/)
+- 📝 I regularly write articles on [blog](https://imran.wiki/blog)
 
 - 💬 Ask me about **react, flask, redux, javascript, python**
 
-- 📄 Know about my experiences [https://imran.wiki/](https://imran.wiki/)
+- 📄 Know about my experiences [resume](https://imran.wiki/resume)
 
 - ⚡ Fun fact **I was pushed down the stairs by a group of monkeys**
 
