@@ -15,7 +15,12 @@
 
 ### Popular Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Build a QR Code Generator App with React JS | Learn React with a Project](https://ytcards.demolab.com/?id=_fiIqsUrJfo&title=Build+a+QR+Code+Generator+App+with+React+JS+%7C+Learn+React+with+a+Project&lang=en&timestamp=1711464004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build a QR Code Generator App with React JS | Learn React with a Project")](https://www.youtube.com/watch?v=_fiIqsUrJfo)
+[![Jutsu Point Live Stream](https://ytcards.demolab.com/?id=_MTTTfkOH4E&title=Jutsu+Point+Live+Stream&lang=en&timestamp=1710495159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Jutsu Point Live Stream")](https://www.youtube.com/watch?v=_MTTTfkOH4E)
+[![Build Wikipedia Clone with React JS - Full Project with Wiki API](https://ytcards.demolab.com/?id=-cg6GuhT1K4&title=Build+Wikipedia+Clone+with+React+JS+-+Full+Project+with+Wiki+API&lang=en&timestamp=1709875126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build Wikipedia Clone with React JS - Full Project with Wiki API")](https://www.youtube.com/watch?v=-cg6GuhT1K4)
+[![Build Naruto Database App - React Js Tutorial - API Project](https://ytcards.demolab.com/?id=KjUKmlYtv-4&title=Build+Naruto+Database+App+-+React+Js+Tutorial+-+API+Project&lang=en&timestamp=1709004614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build Naruto Database App - React Js Tutorial - API Project")](https://www.youtube.com/watch?v=KjUKmlYtv-4)
+[![How to Code a Dictionary app in React | Full Tutorial](https://ytcards.demolab.com/?id=BCjYbNHs8l4&title=How+to+Code+a+Dictionary+app+in+React+%7C+Full+Tutorial&lang=en&timestamp=1708743609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Code a Dictionary app in React | Full Tutorial")](https://www.youtube.com/watch?v=BCjYbNHs8l4)
+[![Convert HTML to PDF in React with react-pdf - Beginner Tutorial](https://ytcards.demolab.com/?id=6iqSR5PP03Q&title=Convert+HTML+to+PDF+in+React+with+react-pdf+-+Beginner+Tutorial&lang=en&timestamp=1708406366&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Convert HTML to PDF in React with react-pdf - Beginner Tutorial")](https://www.youtube.com/watch?v=6iqSR5PP03Q)
 <!-- END YOUTUBE-CARDS -->
 
 
