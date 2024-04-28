@@ -15,12 +15,7 @@
 
 ### Popular Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Learn React in 30 minutes](https://ytcards.demolab.com/?id=vADoIjhxW_E&title=Learn+React+in+30+minutes&lang=en&timestamp=1713795274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn React in 30 minutes")](https://www.youtube.com/watch?v=vADoIjhxW_E)
-[![How to know I'm ready for my first React Job 🤔?](https://ytcards.demolab.com/?id=l1vsYcZ44Wg&title=How+to+know+I%27m+ready+for+my+first+React+Job+%F0%9F%A4%94%3F&lang=en&timestamp=1713349327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to know I'm ready for my first React Job 🤔?")](https://www.youtube.com/watch?v=l1vsYcZ44Wg)
-[![Become Senior React Developer by Mastering 8 Design Patterns](https://ytcards.demolab.com/?id=98Fb0j9CYx4&title=Become+Senior+React+Developer+by+Mastering+8+Design+Patterns&lang=en&timestamp=1712635205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Become Senior React Developer by Mastering 8 Design Patterns")](https://www.youtube.com/watch?v=98Fb0j9CYx4)
-[![3 ways to  reverse string in python 😱 #shorts #coding #python  #programming](https://ytcards.demolab.com/?id=wU0h8MmEjuM&title=3+ways+to++reverse+string+in+python+%F0%9F%98%B1+%23shorts+%23coding+%23python++%23programming&lang=en&timestamp=1712126376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "3 ways to  reverse string in python 😱 #shorts #coding #python  #programming")](https://www.youtube.com/watch?v=wU0h8MmEjuM)
-[![Learn Redux with #React 💥💥. #shorts #coding #javascript #ai](https://ytcards.demolab.com/?id=xYDZURPn6WU&title=Learn+Redux+with+%23React+%F0%9F%92%A5%F0%9F%92%A5.+%23shorts+%23coding+%23javascript+%23ai&lang=en&timestamp=1712040520&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Learn Redux with #React 💥💥. #shorts #coding #javascript #ai")](https://www.youtube.com/watch?v=xYDZURPn6WU)
-[![learn redux with react | Complete Tutorial for Beginners](https://ytcards.demolab.com/?id=N1XFb0Y2wvQ&title=learn+redux+with+react+%7C+Complete+Tutorial+for+Beginners&lang=en&timestamp=1712030410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "learn redux with react | Complete Tutorial for Beginners")](https://www.youtube.com/watch?v=N1XFb0Y2wvQ)
+
 <!-- END YOUTUBE-CARDS -->
 
 
