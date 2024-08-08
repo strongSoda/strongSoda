@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/ehthing" target="blank"><img src="https://img.shields.io/twitter/follow/ehthing?logo=twitter&style=for-the-badge" alt="ehthing" /></a> </p>
 
+- 🚀 I'm building [AiVideo.to](https://aivideo.to) in public. Follow my journey on [Twitter](https://x.com/ehthing).
+
 - 👨‍💻 All of my projects are available at [portfolio](https://imran.wiki/portfolio)
 
 - 📝 I regularly write articles on [blog](https://imran.wiki/blog)
@@ -23,6 +25,9 @@
 [![learn redux with react | Complete Tutorial for Beginners](https://ytcards.demolab.com/?id=N1XFb0Y2wvQ&title=learn+redux+with+react+%7C+Complete+Tutorial+for+Beginners&lang=en&timestamp=1712030410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "learn redux with react | Complete Tutorial for Beginners")](https://www.youtube.com/watch?v=N1XFb0Y2wvQ)
 <!-- END YOUTUBE-CARDS -->
 
+### Recent Blogs
+
+- [How to start a Faceless YouTube Channel with AI](https://aivideo.to/blog/how-to-create-a-faceless-youtube-channel-with-ai-video-earn-10k-per-month)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
