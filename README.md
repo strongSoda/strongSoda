@@ -28,6 +28,7 @@
 ### Recent Blogs
 
 - [How to start a Faceless YouTube Channel with AI](https://aivideo.to/blog/how-to-create-a-faceless-youtube-channel-with-ai-video-earn-10k-per-month)
+- [Ideas for Faceless content on YouTube](https://aivideo.to/blog/faceless-youtube-channel-ideas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
