@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ehthing" target="blank"><img src="https://img.shields.io/twitter/follow/ehthing?logo=twitter&style=for-the-badge" alt="ehthing" /></a> </p>
 
-- 🚀 I'm building [AiVideo.to](https://aivideo.to) in public. Follow my journey on [Twitter](https://x.com/ehthing).
+- 🚀 I'm building [getworkings.com](https://getworkings.com/) in public. Follow my journey on [Twitter](https://x.com/ehthing).
 
 - 👨‍💻 All of my projects are available at [portfolio](https://imran.wiki/portfolio)
 
